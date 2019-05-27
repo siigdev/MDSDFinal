@@ -4140,3 +4140,13 @@ java.lang.IllegalArgumentException: Unhandled parameter types: [org.xtext.exampl
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2019-05-27 14:04:45.268 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.platform.ide
+Command-line arguments:  -product org.eclipse.platform.ide -data /home/seb/eclipse-workspace/Anyslide/../runtime-EclipseXtext -dev file:/home/seb/eclipse-workspace/Anyslide/.metadata/.plugins/org.eclipse.pde.core/Launch Runtime Eclipse/dev.properties -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-05-27 14:04:47.440
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
