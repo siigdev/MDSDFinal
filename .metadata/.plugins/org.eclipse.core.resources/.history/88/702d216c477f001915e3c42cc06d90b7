@@ -1,0 +1,26 @@
+Template Templatename (
+   progress: animationname
+   background-color: "100, 0, 100"
+)
+Progress animationname (
+   type: rectangle
+   animate:
+       width: 10px 
+       height: 10px
+       position: 50% -> 100%
+)
+Global (
+   color: "0, 100, 0"
+   background-color: "0, 0, 100"
+)
+Slide (
+   title: "title of the hmm12"
+   template: Templatename
+)
+Slide (
+   title: "title twooo"
+)
+Slide (
+   title: "title threeee"
+   template: Templatename
+)
